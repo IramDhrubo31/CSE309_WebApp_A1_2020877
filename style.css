@@ -1,0 +1,61 @@
+#syllabusTitle{
+    font-size: 30px;
+}
+.week{
+    display: flex;
+    font-size: 24px;
+}
+.content{
+    padding-left: 24px;
+}
+.lectureTitle{
+    font-size: 24px;
+}
+.slidesButton{
+    font-size: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+    background-color: lightpink;
+    border-radius: 8px;
+    padding: 8px;
+}
+.codeButton{
+    font-size: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+    background-color: lightblue;
+    border-radius: 8px;
+    padding: 8px;
+}
+.bookButton{
+    font-size: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+    background-color: lightsalmon;
+    border-radius: 8px;
+    padding: 8px;
+}
+.questionButton{
+    font-size: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+    background-color: gold;
+    border-radius: 8px;
+    padding: 8px;
+}
+.solutionButton{
+    font-size: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+    background-color: lightgreen;
+    border-radius: 8px;
+    padding: 8px;
+}
+.resourceButton{
+    font-size: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+    background-color: aquamarine;
+    border-radius: 8px;
+    padding: 8px;
+}
